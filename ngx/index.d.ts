@@ -10,7 +10,7 @@ export interface ImageViewerOptions {
  * @description This plugin can display your image in full screen with the ability to pan, zoom, and share the image.
  * @usage
  * ```typescript
- * import { ImageViewer } from '@ionic-native/image-viewer/ngx';
+ * import { ImageViewer } from 'ionic-native-image-viewer/ngx';
  *
  * constructor(private imageViewer: ImageViewer) { }
  *

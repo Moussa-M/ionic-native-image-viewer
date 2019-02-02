@@ -7,9 +7,9 @@ $ ionic cordova plugin add com-poolgazal-imageviewer
 $ npm install ionic-native-image-viewer
 ```
 
-Plugin Repo: [https://github.com/poolgazal/com-poolgazal-imageviewer](https://github.com/poolgazal/com-poolgazal-imageviewer)
+Plugin Repo: [https://github.com/poolgazal/imageviewer](https://github.com/poolgazal/imageviewer)
 
-AppMinimize is a plugin to minimize the application on android devices
+ImageViewer is a plugin to show n image on android,ios devices
 
 ## Supported platforms
 - Android

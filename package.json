@@ -19,5 +19,5 @@
     "url": "git+https://github.com/poolgazal/ionic-native-image-viewer.git"
   },
   "typings": "index.d.ts",
-  "version": "5.0.1"
+  "version": "1.0.1"
 }
