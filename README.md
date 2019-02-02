@@ -4,7 +4,7 @@
 
 ```
 $ ionic cordova plugin add com-poolgazal-imageviewer
-$ npm install @ionic-native/image-viewer
+$ npm install ionic-native-image-viewer
 ```
 
 Plugin Repo: [https://github.com/poolgazal/com-poolgazal-imageviewer](https://github.com/poolgazal/com-poolgazal-imageviewer)
