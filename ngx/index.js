@@ -26,10 +26,10 @@ var ImageViewer = /** @class */ (function (_super) {
     }
     ImageViewer.prototype.show = function (url, title, options) { return cordova(this, "show", { "sync": true }, arguments); };
     ImageViewer.pluginName = "ImageViewer";
-    ImageViewer.plugin = "com-poolgazal-imageviewer";
+    ImageViewer.plugin = "com-pg-imageviewer";
     ImageViewer.pluginRef = "ImageViewer";
-    ImageViewer.repo = "https://github.com/poolgazal/imageviewer";
-    ImageViewer.platforms = ["Android", "iOS"];
+    ImageViewer.repo = "https://github.com/moussa-m/imageviewer";
+    ImageViewer.platforms = ["Android",];
     ImageViewer = __decorate([
         Injectable()
     ], ImageViewer);

@@ -18,7 +18,7 @@ export interface ImageViewerOptions {
  *
  * this.imageViewer.show('https://mysite.com/path/to/image.jpg');
  *
- * this.imageViewer.show('https://mysite.com/path/to/image.jpg', 'My image title', {share: false});
+ * this.imageViewer.show('https://mysite.com/path/to/image.jpg', 'Title', {share: true});
  * ```
  */
 export declare class ImageViewer extends IonicNativePlugin {

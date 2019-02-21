@@ -2,7 +2,7 @@
   
   "name": "ionic-native-image-viewer",
   "description": "Ionic Native - Native plugins for ionic apps",
-  "homepage": "https://github.com/poolgazal/ionic-native-image-viewer#readme",
+  "homepage": "https://github.com/moussa-m/ionic-native-image-viewer#readme",
   "license": "MIT",
   "module": "index.js",
   "bundleDependencies": false,
@@ -16,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/poolgazal/ionic-native-image-viewer.git"
+    "url": "git+https://github.com/moussa-m/ionic-native-image-viewer.git"
   },
   "typings": "index.d.ts",
-  "version": "1.0.1"
+  "version": "1.1.0"
 }

@@ -19,9 +19,9 @@ var ImageViewerOriginal = /** @class */ (function (_super) {
     }
     ImageViewerOriginal.prototype.show = function (url, title, options) { return cordova(this, "show", { "sync": true }, arguments); };
     ImageViewerOriginal.pluginName = "ImageViewer";
-    ImageViewerOriginal.plugin = "com-poolgazal-imageviewer";
+    ImageViewerOriginal.plugin = "com-pg-imageviewer";
     ImageViewerOriginal.pluginRef = "ImageViewer";
-    ImageViewerOriginal.repo = "https://github.com/poolgazal/imageviewer";
+    ImageViewerOriginal.repo = "https://github.com/moussa-m/imageviewer";
     ImageViewerOriginal.platforms = ["Android", "iOS"];
     return ImageViewerOriginal;
 }(IonicNativePlugin));
